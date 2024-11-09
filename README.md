@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/kelompok2ukksmkn1kadipaten/kelompok2.github.io/blob/main/public/img/user.jpg" width="120">
+    <img src="https://github.com/kelompok2ukksmkn1kadipaten/kelompok2.github.io/blob/main/public/img/logo.png" width="120">
 </p>
 
 ## Tentang Aplikasi
