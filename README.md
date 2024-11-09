@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="main/public/img/logo.png" width="120">
+    <img src="blob/main/main/public/img/logo.png" width="120">
 </p>
 
 ## Tentang Aplikasi
