@@ -38,7 +38,7 @@ Aplikasi Kasir Toko Smart ini dikembangkan untuk memudahkan pengelolaan transaks
 #### Via Git
 
 ```bash
-[https://github.com/kelompok2ukksmkn1kadipaten2024/kelompok2.github.io.git]
+https://github.com/kelompok2ukksmkn1kadipaten2024/kelompok2.github.io.git
 ```
 
 ### Download ZIP
