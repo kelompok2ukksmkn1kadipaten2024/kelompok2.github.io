@@ -43,7 +43,7 @@ https://github.com/kelompok2ukksmkn1kadipaten2024/kelompok2.github.io.git
 
 ### Download ZIP
 
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/kelompok2ukksmkn1kadipaten2024/kelompok2.github.io/archive/refs/heads/main.zip)
 
 ### Setup Aplikasi
 
